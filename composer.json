@@ -1,5 +1,5 @@
 {
-    "name"             : "vi-kon/laravel-wiki",
+    "name"             : "seongbae/laravel-wiki",
     "description"      : "Wiki Engine for Laravel 5.1, based on Markdown syntax",
     "keywords"         : [
         "laravel",
